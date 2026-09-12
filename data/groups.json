@@ -210,7 +210,7 @@
     "category": "Software Engineering",
     "memberCount": "220,000+ members",
     "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
+    "joinUrl": "https://discord.gg/programming",
     "tags": [
       "programming",
       "multi-language",
@@ -499,7 +499,7 @@
     "category": "Systems Programming",
     "memberCount": "100,000+ contributors",
     "description": "Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.",
-    "joinUrl": "https://github.com/rust-lang/rust/discussions",
+    "joinUrl": "https://users.rust-lang.org",
     "tags": [
       "rust",
       "github",
