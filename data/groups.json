@@ -1,5 +1,24 @@
 [
   {
+    "id": "vr-gaming-meta-quest-hub-reddit-20260915-1",
+    "title": "r/science Academic Research",
+    "platform": "Reddit",
+    "category": "Science & Innovation",
+    "memberCount": "32,000,000+ members",
+    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
+    "joinUrl": "https://www.reddit.com/r/science/",
+    "tags": [
+      "science",
+      "research",
+      "innovation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "vr-gaming-meta-quest-hub-discord-20260914-p1",
     "title": "SideQuest VR Official Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
