@@ -4,10 +4,17 @@
     <title>VR Gaming &amp; Meta Quest Modders Hub</title>
     <link>https://vr-gaming-meta-quest-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:02:03 GMT</lastBuildDate>
     <atom:link href="https://vr-gaming-meta-quest-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-hub-forum-20260922-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:02:03 GMT</pubDate>
+      <description>Newly verified community added to VR Gaming &amp; Meta Quest Modders Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-hub-forum-20260922-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-hub-reddit-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:15:56 GMT</pubDate>
       <description>Newly verified community added to VR Gaming &amp; Meta Quest Modders Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: SideQuest VR Official Discord (Discord)</title>
-      <link>https://discord.gg/sidequest</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/vr-gaming-meta-quest-hub/#vr-gaming-meta-quest-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Vr Gaming Meta Quest Hub: Official community for Meta Quest sideloading, early-access indie VR games, developer testing, and OpenXR PCVR setups.</description>
     </item>
   </channel>
 </rss>
