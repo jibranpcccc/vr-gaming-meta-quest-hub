@@ -1,5 +1,24 @@
 [
   {
+    "id": "vr-gaming-meta-quest-modders-hub-reddit-1",
+    "title": "r/gamedev Developers Network",
+    "platform": "Reddit",
+    "category": "Game Development",
+    "memberCount": "1,400,000+ members",
+    "description": "The premier community for game designers, indie developers, gameplay programmers, and procedural artists.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "tags": [
+      "gamedev",
+      "indiedev",
+      "design",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "vr-gaming-meta-quest-hub-forum-20260922-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -188,24 +207,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "vr-gaming-meta-quest-modders-hub-reddit-1",
-    "title": "r/gamedev Developers Network",
-    "platform": "Reddit",
-    "category": "Game Development",
-    "memberCount": "1,400,000+ members",
-    "description": "The premier community for game designers, indie developers, gameplay programmers, and procedural artists.",
-    "joinUrl": "https://www.reddit.com/r/gamedev/",
-    "tags": [
-      "gamedev",
-      "indiedev",
-      "design",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "vr-gaming-meta-quest-modders-hub-reddit-2",
