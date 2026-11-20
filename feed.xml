@@ -4,10 +4,17 @@
     <title>VR Gaming &amp; Meta Quest Modders Hub</title>
     <link>https://vr-gaming-meta-quest-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:02:05 GMT</lastBuildDate>
     <atom:link href="https://vr-gaming-meta-quest-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/unity3d Engine Developers (Reddit)</title>
+      <link>https://www.reddit.com/r/unity3d/</link>
+      <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-modders-hub-reddit-3-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:02:05 GMT</pubDate>
+      <description>Newly verified community added to VR Gaming &amp; Meta Quest Modders Hub: Discussions on Unity engine shaders, C# scripting, physics optimization, URP/HDRP graphics, and multiplatform builds.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/blender 3D Modeling Community (Reddit)</title>
       <link>https://www.reddit.com/r/blender/</link>
       <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-modders-hub-reddit-2-2026-11-19</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-hub-forum-20260922-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:02:08 GMT</pubDate>
-      <description>Newly verified community added to VR Gaming &amp; Meta Quest Modders Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://vr-gaming-meta-quest-hub.vercel.app/#vr-gaming-meta-quest-hub-forum-20260922-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:02:39 GMT</pubDate>
       <description>Newly verified community added to VR Gaming &amp; Meta Quest Modders Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
